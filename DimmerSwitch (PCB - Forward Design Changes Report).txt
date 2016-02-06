@@ -1,0 +1,21 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch (PCB - Forward Design Changes Report).txt
+Report Written:     Saturday, February 06, 2016
+Project Path:       C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch.prj
+Design Path:        C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch.pcb
+Design Title:       
+Created:            14/12/2015 15:10:55
+Last Saved:         06/02/2016 22:09:19
+Editing Time:       2968 min
+Units:              mm (precision 0)
+
+Disconnected pin "Q2-1" from net "TRIAC_KT2".
+Disconnected pin "Q3-1" from net "TRIAC_KT1".
+
+Connected pin "Q2-1" to net "TRIAC_KT1".
+Connected pin "Q3-1" to net "TRIAC_KT2".
+
+
+End Of Report.

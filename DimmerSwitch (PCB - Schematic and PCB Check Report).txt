@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch (PCB - Schematic and PCB Check Report).txt
+Report Written:     Saturday, February 06, 2016
+Project Path:       C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch.prj
+Design Path:        C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch.pcb
+Design Title:       
+Created:            14/12/2015 15:10:55
+Last Saved:         06/02/2016 22:09:19
+Editing Time:       2968 min
+Units:              mm (precision 0)
+
+
+Checking integrity of Schematic and Pcb designs in project "DimmerSwitch"
+=========================================================================
+
+
+End Of Report.
