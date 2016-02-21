@@ -1,0 +1,88 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch (PCB - Design Rule Check Report).txt
+Report Written:     Sunday, February 07, 2016
+Project Path:       C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch.prj
+Design Path:        C:\Elektroonika\BlueDimmerSwitch\DimmerSwitch.pcb
+Design Title:       
+Created:            14/12/2015 15:10:55
+Last Saved:         07/02/2016 10:58:53
+Editing Time:       3034 min
+Units:              mm (precision 0)
+
+
+Results
+=======
+
+Pad to Board error (P-B) at (571 527) on layer "[All]".
+    Error between Pad and Board, Gap is 0 needs to be 3.
+Pad to Board error (P-B) at (571 468) on layer "[All]".
+    Error between Pad and Board, Gap is 0 needs to be 3.
+Pad to Board Error (P-B) between (454 467) and (454 466) on Layer "[All]".
+    Error between Pad and Board, Gap is 0 needs to be 3.
+Pad to Board Error (P-B) between (454 530) and (454 530) on Layer "[All]".
+    Error between Pad and Board, Gap is 1 needs to be 3.
+Pad to Board Error (P-B) between (454 500) and (451 500) on Layer "[All]".
+    Error between Component Pad R37.1 (Net 'VCC') and Board, Gap is 3 needs to be 3.
+Pad to Board Error (P-B) between (454 508) and (451 508) on Layer "[All]".
+    Error between Component Pad R37.2 (Net 'VCC') and Board, Gap is 3 needs to be 3.
+Single pin net - on U7.3 at 508,516
+Gap in Net "VCC" between (499,474) and (506,474) 
+    VCC.
+Gap in Net "VCC" between (474,474) and (466,474) 
+    VCC.
+Gap in Net "VCC" between (469,482) and (465,489) 
+    VCC.
+Gap in Net "VCC" between (465,489) and (459,493) 
+    VCC.
+Gap in Net "VCC" between (465,516) and (465,508) 
+    VCC.
+
+Number of errors found : 12
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.
